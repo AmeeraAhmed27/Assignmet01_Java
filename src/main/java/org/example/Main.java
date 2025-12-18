@@ -18,6 +18,7 @@ public class Main {
         // Close the scanner as we no longer need input
         scanner.close();
 
+
         // --- 1. Arithmetic operations ---
         System.out.println("\n--- 1. Arithmetic Operations ---");
 
